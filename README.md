@@ -1,4 +1,4 @@
-#JS101 Array Methods Part 1
+# JS101 Array Methods Part 1
 
 * toString() - convert array to string
 * join() - like toString() but add a separator
